@@ -87,7 +87,7 @@ The chart will be saved as `social_media_analysis.png` in the same folder.
 
 What struck me most wasn't any single finding, it was the consistency of the pattern. Across every metric, from sleep issues to difficulty concentrating to feelings of depression, heavier social media use was associated with worse outcomes. It's not a dramatic effect, but it's a steady one.
 
-As someone studying the intersection of psychology and data, this project reinforced something I believe strongly: data doesn't replace human understanding, it deepens it. The numbers here aren't just statistics — they represent real people's daily experiences, and that's worth taking seriously.
+As someone studying the intersection of psychology and data, this project reinforced something I believe strongly: data doesn't replace human understanding, it deepens it. The numbers here aren't just statistics, they represent real people's daily experiences, and that's worth taking seriously.
 
 ---
 
