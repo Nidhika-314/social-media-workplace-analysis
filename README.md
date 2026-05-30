@@ -29,7 +29,7 @@ Each respondent answered questions about:
 Here are the four key takeaways from the analysis:
 
 ### 1. Most people are using social media a lot
-The most common response was **"more than 5 hours per day"** — 115 out of 479 respondents fell into this category. That's nearly 1 in 4 people spending over a quarter of their waking hours on social media.
+The most common response was **"more than 5 hours per day"** 115 out of 479 respondents fell into this category. That's nearly 1 in 4 people spending over a quarter of their waking hours on social media.
 
 ### 2. Heavy users show significantly worse mental health scores
 Users who spend **more than 5 hours** on social media daily had an average mental health distress score of **3.47 out of 5**, compared to just **2.14** for those using it less than an hour a day. That's a meaningful difference not just a statistical blip.
